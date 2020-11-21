@@ -1,0 +1,3 @@
+Integrantes		Rut		Correos
+Kevin Canales		20.773.673-2	kevin.canales@alumnos.uv.cl
+Martin Hernandez	20.147.725-5	martin.hernandez@alumnos.uv.cl
